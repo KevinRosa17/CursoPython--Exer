@@ -1,2 +1,3 @@
 # Curso Python- Exercícios
-Exercícios do curso de Python-Gustavo Guanabara
+Todos os exercícios referêntes ao curso de Python do Gustavo Guanabara
+
