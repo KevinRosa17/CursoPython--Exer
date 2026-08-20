@@ -1,0 +1,6 @@
+num=int(input("Digite um numero:"))
+sp= str(num)
+print(sp[0])
+print(sp[1])
+print(sp[2])
+print(sp[3])
